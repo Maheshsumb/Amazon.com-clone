@@ -11,10 +11,9 @@ The goal of this project is to showcase my frontend development skills by recrea
 - Designing a footer with relevant links and information.
 
 ## Technologies Used 💻
-
-- HTML5: For structuring the webpage. 🌐
-- CSS3: For styling and layout. 🎨
-
+- HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) : For structuring the webpage.
+- CSS3 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) :For styling and layout.
+  
 ## Project Structure 📁
 
 The project structure is organized as follows:
