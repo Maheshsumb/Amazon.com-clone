@@ -14,7 +14,6 @@ The goal of this project is to showcase my frontend development skills by recrea
 
 - HTML5: For structuring the webpage.
 - CSS3: For styling and layout.
-- JavaScript (if applicable): For adding interactive elements.
 
 ## Project Structure
 
@@ -22,19 +21,17 @@ The project structure is organized as follows:
 
 - `index.html`: Main HTML file containing the structure of the Amazon homepage.
 - `styles/`: Directory containing CSS files for styling.
-  - `main.css`: Main stylesheet for the project.
-- `scripts/` (if applicable): Directory containing JavaScript files for functionality.
-  - `main.js`: Main JavaScript file for interactive elements.
-
+  - `styles.css`: Main stylesheet for the project.
+  -  `utils.css`: commonly used css stylesheet for the project.
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/amazon-clone.git`
+1. Clone the repository: `git clone https://github.com/Maheshsumb/Amazon.com-clone.git`
 2. Open `index.html` in your web browser to view the Amazon homepage clone.
 3. Customize and modify the code as needed to suit your requirements.
 
 ## Screenshots
 
-Include screenshots or GIFs showcasing the cloned Amazon homepage for visual reference.
+
 
 ## Contributing
 
