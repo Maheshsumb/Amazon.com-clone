@@ -262,6 +262,7 @@ ul a {
     font-size: 0.85rem;
     margin-top: 10px;
     color: #DDD;
+    text-decoration:none;
 }
 
 .foot-pan2 ul a:hover {
