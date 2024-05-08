@@ -31,7 +31,11 @@ The project structure is organized as follows:
 
 ## Screenshots
 
+![Screenshot 2024-05-09 021611](https://github.com/Maheshsumb/Amazon.com-clone/assets/141281785/182dbd1c-3be1-4388-bed7-c1ec3e7dc980)
 
+![Screenshot 2024-05-09 021623](https://github.com/Maheshsumb/Amazon.com-clone/assets/141281785/ce70d304-3ca6-4ea7-a260-9441206e21c7)
+
+![Screenshot 2024-05-09 021630](https://github.com/Maheshsumb/Amazon.com-clone/assets/141281785/160891ee-cdcb-434d-9990-5cb81dd90438)
 
 ## Contributing
 
